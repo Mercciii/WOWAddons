@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: MercciiMacro |cff00ccff可视化宏编辑器|r
+## Notes: 积木式拖拽可视化宏，支持IF无限嵌套、参数面板、职业模板、一键换装
+## Author: Custom
+## Version: 1.4.0
+## SavedVariables: MercciiMacroDB
+
+MercciiMacro.lua
